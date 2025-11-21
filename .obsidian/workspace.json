@@ -164,8 +164,19 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "1c81dddd82da32ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
