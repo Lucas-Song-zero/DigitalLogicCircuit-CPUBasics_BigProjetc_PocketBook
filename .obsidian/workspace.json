@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "e1707f2e83bea51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "1/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 1"
             }
           },
           {
@@ -194,10 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df48514b19cadcd0",
+  "active": "e1707f2e83bea51a",
   "lastOpenFiles": [
+    "assets/Pasted image 20251122012805.png",
+    "assets",
+    "Untitled.md",
+    "1/1.md",
+    "1/assets",
+    "1",
     "Welcome.md",
-    "LICENSE",
-    "Untitled.md"
+    "LICENSE"
   ]
 }
